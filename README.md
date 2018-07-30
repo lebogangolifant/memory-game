@@ -1,15 +1,17 @@
 # Udacity-Memory-Game
+
 Front-End Web Nano Degree Scholarship project 2. Create Build a browser-based, card matching game.
 
 ## Task
 
-   - [x] Modify Udacity startercode (HTML and CSS styling) of the static Memory Game         project, but specifically the JavaScript file.
+   - [x] Modify Udacity startercode (HTML and CSS styling) of the static Memory Game project, but specifically the JavaScript file.
    - [x] Convert the static project into an interactive app game
-
 
 ### Game Screenshot
 
-![design-mockup-portfolio](https://user-images.githubusercontent.com/40595189/42816755-215e15bc-89cc-11e8-837c-a81d4e3ad727.png)
+![match 1](https://user-images.githubusercontent.com/40595189/43419535-6d7e1c1a-9441-11e8-9142-d1972179c026.png)
+![match2](https://user-images.githubusercontent.com/40595189/43419537-6dc4f108-9441-11e8-9b70-79b23d656ca3.png)
+![match3](https://user-images.githubusercontent.com/40595189/43419538-6e01c650-9441-11e8-9a2c-37aafd149214.png)
 
 ## Game Logics
 - The game randomly shuffles the 16 cards.
@@ -29,4 +31,4 @@ including: time spend, star rating & play again button
 
 ## Play The Game
 
- [Emoji Personality Match](https://lebogango.github.io/Udacity-Portfolio-Page/.)
+ [Emoji Personality Match](https://lebogango.github.io/Memory-Game/.)

@@ -31,4 +31,4 @@ including: time spend, star rating & play again button
 
 ## Play The Game
 
- [Emoji Personality Match](https://lebogango.github.io/Memory-Game/.)
+ [Emoji Personality Match](https://lebogangolifant.github.io/Memory-Game/.)
